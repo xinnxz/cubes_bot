@@ -2,7 +2,7 @@
 BOT FROM AIRDROPFAMILYIDN
 
 # RUN BOT 
-- git clone https://github.com/AirDropFamilyIDN/BOT-Cube.git
+- git clone https://github.com/xinnxz/cubes_bot.git
 - cd bot-cube
 - npm install
 - node cube.js
